@@ -33,8 +33,7 @@ public class CalculatorTest extends TestCase {
 	}
 
 	public final void testDivide() {
-		System.out.println("");
-		System.out.println("Division");
+		System.out.println("Divide");
 		 double number1 = 7.2;
 		 double number2 = 4.1;
 		 Calculator instance = new Calculator();
